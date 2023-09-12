@@ -1,2 +1,0 @@
-/Users/zhumingze/code/learn/cmake/learn_cmake/cmake-3.27.4-tutorial-source/Step1_build/CMakeFiles/edit_cache.dir
-/Users/zhumingze/code/learn/cmake/learn_cmake/cmake-3.27.4-tutorial-source/Step1_build/CMakeFiles/rebuild_cache.dir
